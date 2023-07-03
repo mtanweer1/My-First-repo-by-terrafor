@@ -1,2 +1,2 @@
-# My-First-repo-by-terrafor
+# My-First-repo-by-terraform
 Created by terraform
